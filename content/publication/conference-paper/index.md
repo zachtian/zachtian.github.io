@@ -1,9 +1,6 @@
 ---
 title: 'Bézier Everywhere All at Once: Learning Drivable Lanes as Bézier Graphs'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - Hugh Blayney
   - Hanlin Tian
@@ -31,7 +28,7 @@ abstract: Knowledge of lane topology is a core problem in autonomous driving. Vi
 tags: [Autonomous Vehicle, Computer Vision]
 
 # Display this page in the Featured widget?
-featured: False
+featured: True
 
 # Custom links (uncomment lines below)
 # links:
