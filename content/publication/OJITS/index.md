@@ -8,7 +8,6 @@ authors:
   - Yiannis Demiris
   - Panagiotis Angeloudis
 
-date: '2024-06-01T00:00:00Z'
 doi: ''
 
 # Publication type.
@@ -16,8 +15,8 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS)'
-publication_short: 'Submitted to T-ITS'
+publication: 'Submitted to IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)'
+publication_short: 'Submitted to OJ-ITS'
 
 abstract: >
   Accurately predicting traffic risks at urban intersections is essential for improving road safety. While traditional models use data sources like road traffic conditions, geometry, and signals, they often miss the spatial interactions between road networks and buildings. This study introduces a multimodal deep learning framework that integrates aerial imagery, building footprint data, and traffic flow information to improve traffic risk prediction and better capture these complex relationships.
