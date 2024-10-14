@@ -30,7 +30,9 @@ tags: [Autonomous Vehicle, GIS]
 
 # Display this page in the Featured widget?
 featured: False
-
+links:
+- name: Download PDF
+  url: uploads/TRB.pdf
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
