@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in TSL lab
+    - course: Postgraduate Researcher in TSL lab
       institution: Imperial College London
       year: 2022
     - course: Master of Science in Computer Engineering
