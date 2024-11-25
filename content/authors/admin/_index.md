@@ -11,7 +11,7 @@ last_name: Tian
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Researcher at Imperial College London
+role: Postgraduate Researcher at Imperial College London
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,5 +74,5 @@ social:
 highlight_name: true
 ---
 
-Hanlin (Zach) Tian is a Doctoral Researcher at Imperial College London, focusing on Autonomous Vehicles, Computer Vision, and Large Language Models. Supervisors: [Dr. Panagiotis Angeloudis](https://www.imperial.ac.uk/people/p.angeloudis), [Professor Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris), and [Professor Mohammed Quddus](https://www.imperial.ac.uk/people/m.quddus). With a background in Computer Science and Engineering, Hanlin is committed to driving innovation in transportation through advanced research and technology.
+Hanlin (Zach) Tian is a Postgraduate Researcher at Imperial College London, focusing on Autonomous Vehicles, Computer Vision, and Large Language Models. Supervisors: [Dr. Panagiotis Angeloudis](https://www.imperial.ac.uk/people/p.angeloudis), [Professor Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris), and [Professor Mohammed Quddus](https://www.imperial.ac.uk/people/m.quddus). With a background in Computer Science and Engineering, Hanlin is committed to driving innovation in transportation through advanced research and technology.
 {style="text-align: justify;"}
