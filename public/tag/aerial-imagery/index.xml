@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerial Imagery | Hanlin Tian</title>
+    <link>https://hanlintian.com/tag/aerial-imagery/</link>
+      <atom:link href="https://hanlintian.com/tag/aerial-imagery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aerial Imagery</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanlintian.com/media/icon_hu_88481cbba9847973.png</url>
+      <title>Aerial Imagery</title>
+      <link>https://hanlintian.com/tag/aerial-imagery/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Learning for Traffic Risk Prediction: Combining Aerial Imagery with Contextual Data</title>
+      <link>https://hanlintian.com/publication/ojits/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanlintian.com/publication/ojits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
